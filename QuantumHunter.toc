@@ -1,0 +1,30 @@
+## Interface: 110007
+## Title: QuantumHunter
+## Notes: Tells you what you missing from quantums bro
+## Author: Oak
+## Version: 1.0.0
+## SavedVariables: QuantumHunterDB
+
+Axe.lua
+Bow.lua
+Crossbow.lua
+Firearm.lua
+Focus.lua
+Greataxe.lua
+Greathammer.lua
+Greatsword.lua
+Knife.lua
+Knuckles.lua
+Mace.lua
+Polearm.lua
+Shield.lua
+Staff.lua
+Sword.lua
+Wand.lua
+Warglaives.lua
+Headpiece.lua
+Shoulders.lua
+Chestpiece.lua
+Gloves.lua
+Legs.lua
+QuantumHunter.lua
